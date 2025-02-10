@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://cansahin.vercel.app/](https://cansahin.vercel.app/)
 
-- ⚡ Fun fact **I'm secretly Batman and Gotham City needs me**
+- ⚡ **I'm secretly Batman and Gotham City needs me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
