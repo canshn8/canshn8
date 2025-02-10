@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Can</h1>
-<h3 align="center">Junior Web Developer | MERN | E-Commerce & Web Development </></h3>
+<h3 align="center">Junior Web Developer | MERN | E-Commerce & Web Development </h3>
 
 - 🔭 I’m currently working on [Chain Sculptor](https://github.com/canshn8/ChainSculptor-API)
 
