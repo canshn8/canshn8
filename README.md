@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasan Can</h1>
 <h3 align="center">Junior Web Developer | MERN | E-Commerce & Web Development </h3>
 
-- 🔭 I’m currently working on [Chain Sculptor](https://github.com/canshn8/ChainSculptor-API)
 
 - 🌱 I’m currently learning **I'm currently learning blockchain technology and improving my MERN stack skills to build more dynamic web applications**
 
-- 👨‍💻 All of my projects are available at [https://cansahin.vercel.app/](https://cansahin.vercel.app/)
-
 - 📫 How to reach me **cannshn.0@gmail.com**
-
-- 📄 Know about my experiences [https://cansahin.vercel.app/](https://cansahin.vercel.app/)
 
 - ⚡ **I'm secretly Batman and Gotham City needs me**
 
